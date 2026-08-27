@@ -66,7 +66,7 @@ Many existing forecasting systems are either complex, region-specific, or lack i
 ```text
 Global-Warming-Forecasting-Tool/
 │
-├── ClimateForecasting_Research_Sujal.py
+├── ClimateForecasting_Research_Sanvi.py
 ├── climate_trend_dataset.csv
 ├── requirements.txt
 └── README.md

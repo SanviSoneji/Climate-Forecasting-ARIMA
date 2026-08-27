@@ -183,7 +183,7 @@ pip install -r requirements.txt
 ## Run the Application
 
 ```bash
-streamlit run ClimateForecasting_Research_Sujal.py
+streamlit run ClimateForecasting_Research_Sanvi.py
 ```
 
 ---
